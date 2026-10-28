@@ -1,6 +1,6 @@
 ; Update list for Dropped Item Labels. Upload this next to mod.ini and the files folder.
-version=1.4
-28c00ade031ba56402e8f9a402017d178c84fccf|mod.ini
+version=1.5
+39da894c07cbeea051115df0e00f85915e468361|mod.ini
 ec747d30b487d8f935a0d683a28273700f6e96cc|files/Data/ui/sp_addons/item_labels.txt
 e0fe0c3761bf2ecf3977c7a559b7728ff0709c40|files/Data/ui/themes/rose/game/dropped_item_labels.html
-f1078775d1f94254685519a4d54b6c3de1cb3b30|files/Data/ui/themes/rose/game/options_bgfx.html
+cfe4c3a63e20ee55e3b512b3366654398eafeeed|files/Data/ui/themes/rose/game/options_bgfx.html
