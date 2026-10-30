@@ -2,7 +2,7 @@
 
 A background slider for dropped item names.
 
-In the Add-ons window (the Add-ons button in the menu), under Items & Crafting: a background slider for the names of dropped items (clear to solid), next to the game's own "Show dropped item name" and "Show item pickup status", which move there from the Game tab.
+Options > Game: a background slider for the names of dropped items (clear to solid), right under the game's own "Show dropped item name".
 
 An add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher), for the game's default UI and the Steampunk UI theme. Without the launcher, copy the `Data` folder from `files` into your ROSE Online folder.
 
