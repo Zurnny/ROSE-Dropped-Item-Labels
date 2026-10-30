@@ -1,11 +1,11 @@
 ; Update list for Dropped Item Labels. Upload this next to mod.ini and the files folder.
-version=1.10
-921a55090f26842b244f24f105813362cbbc08e6|mod.ini
+version=1.11
+31e46dcd990cafa42bf9f52d8e30ca99efa8a5c7|mod.ini
 ec747d30b487d8f935a0d683a28273700f6e96cc|files/Data/ui/sp_addons/item_labels.txt
 80fc15abb9b5f6618ea33938f40bb04caafc29ee|files/Data/ui/themes/rose/game/dropped_item_labels.html
 f73e3ff2449c21cd26b382a0d965ad68ce2c7387|files/Data/ui/themes/rose/game/menu.html
 4afc0dd827e57b69b5a89fb34676c6c7ec0f575a|files/Data/ui/themes/rose/game/options_bgfx.html
 df14c61c9712375fdda896285ee26c97d7c1ebd0|files/Data/ui/themes/rose/game/sp_addons_window.html
-b84edbc5f1907ce85a4f3d5bd6f6beb86d54b473|files/Data/ui/themes/rose/imgs/sp_addons_menu.dds
+9b1164d2e102c0a3a8300ea35dc61ec311b3420f|files/Data/ui/themes/rose/imgs/sp_addons_menu.dds
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 d91eeca9018f74fcc0129e8769899178111feb8f|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
